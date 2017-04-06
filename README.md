@@ -24,3 +24,4 @@ Subway is (yet another) IRC client for the Android mobile platform, aiming to be
 
 #### Credit:
 - __PircBotX__, Subway's IRC protocol backend library ( https://github.com/TheLQ/pircbotx ).
+- __Android-Link-Preview__, URL preview generation ( https://github.com/LeonardoCardoso/Android-Link-Preview ).
