@@ -11,6 +11,7 @@ Subway is (yet another) IRC client for the Android mobile platform, aiming to be
 - SSL & IPv6 support.
 - Channel scrollbacks.
 - Multi-server support.
+- irc:// protocol handling.
 - Material design inspired.
 - Emojis & UTF-16 support.
 - Custom fonts, add your own TTFs.
