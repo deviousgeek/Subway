@@ -18,7 +18,8 @@ Subway is (yet another) IRC client for the Android mobile platform, aiming to be
 - Inline media previews (images, videos, URL titles etc).
 - Look & feel customization, with some built-in favourites.
 - IRCv3 SASL & TLS authentication (SERVER and NickServ too).
-- The usual (autojoin, private messages, auto-reconnect, ident server, CTCP).
+- Content to URL sharing and shortening (using hastebin, imagebin.ca and goo.gl).
+- ...and usual features (autojoin, private messages, auto-reconnect, ident server, CTCP).
 
 
 #### Credit:
